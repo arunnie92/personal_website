@@ -1,0 +1,29 @@
+* {
+    font-family: 'Play', sans-serif;
+}
+
+
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    background-image: url("img/background1.jpg");
+}
+
+p {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+hr.line {
+  border-color: grey; 
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
